@@ -4,7 +4,9 @@
 
 ![cows](cows.jpg)
 
-FISH results for the paper "*Individualized cattle copy number and segmental duplication maps using next generation sequencing*" can be viewed [here](FISH_results_51.md) [Bos Taurus Karyotype](Karyotype.md)
+FISH results for the paper "*Individualized cattle copy number and segmental duplication maps using next generation sequencing*" can be viewed [here](FISH_results_51.md)
+
+[Bos Taurus Karyotype](Karyotype.md)
 
 The paper "*Analysis of copy number variations among diverse cattle breeds*" can be viewed at [Genome Research](http://genome.cshlp.org/content/early/2010/03/05/gr.105403.110.abstract):
 
