@@ -2,9 +2,11 @@
 
 # Cattle Copy Number Variation
 
-FISH results for the paper [Individualized cattle copy number and segmental duplication maps using next generation sequencing]() can be viewed [here](FISH/Readme_51.md)
+![cows](cows.jpg)
 
-The paper [Analysis of copy number variations among diverse cattle breeds] can be viewed at [Genome Research](http://genome.cshlp.org/content/early/2010/03/05/gr.105403.110.abstract):
+FISH results for the paper "*Individualized cattle copy number and segmental duplication maps using next generation sequencing*" can be viewed [here](FISH_results_51.md) [Bos Taurus Karyotype](Karyotype.md)
+
+The paper "*Analysis of copy number variations among diverse cattle breeds*" can be viewed at [Genome Research](http://genome.cshlp.org/content/early/2010/03/05/gr.105403.110.abstract):
 
 ## Analysis of copy number variations among diverse cattle breeds
 
@@ -16,4 +18,4 @@ Genomic structural variation is an important and abundant source of genetic and 
 
 [Supplemental materials](http://genome.cshlp.org/content/early/2010/03/05/gr.105403.110/suppl/DC1)
 
-[FISH results](FISH/Readme_main.md)
+[FISH results](FISH_results_51.md)
