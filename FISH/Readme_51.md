@@ -2,14 +2,16 @@
 
 Back to cattle CNV homepage
 Bos Taurus Karyotype
+
 ## Table S8. FISH characterization of predicted CNV regions.
 
-No | BAC Clone | Genomic Coordinates | Cell 1 | Cell 2 | Cell 3 | CNV
-1 | [149E13](17_149E13.gif) | chr2:136964221-137226534 | 1 | 1 | 1 | No change
-2 | 70J17 | chr3:13022770-13477370 | 2 | 2| 2 | No change
-3 | 363H17 | chr3:22522856-22924597 | 2 | 2 | 2 | No change
-4 | 143A4 | chr3:24373476-24655044 | 2 or 3 | 2 | 1 | Yes
-5 | 263E19 | chr3:57365022-57692506 | 2+1# | 2+1# | 2+1# | No change
+| No | BAC Clone | Genomic Coordinates | Cell 1 | Cell 2 | Cell 3 | CNV |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | [149E13](17_149E13.gif) | chr2:136964221-137226534 | 1 | 1 | 1 | No change |
+| 2 | 70J17 | chr3:13022770-13477370 | 2 | 2| 2 | No change |
+| 3 | 363H17 | chr3:22522856-22924597 | 2 | 2 | 2 | No change |
+| 4 | 143A4 | chr3:24373476-24655044 | 2 or 3 | 2 | 1 | Yes |
+| 5 | 263E19 | chr3:57365022-57692506 | 2+1# | 2+1# | 2+1# | No change |
 6
 481N5
 chr4:108769529-108975389
