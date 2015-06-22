@@ -1,0 +1,3039 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 12">
+<meta name=Originator content="Microsoft Word 12">
+<link rel=File-List href="index_72_files/filelist.xml">
+<title>FISH characterization of cattle CNV regions</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>yaho</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>gliu</o:LastAuthor>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>6</o:TotalTime>
+  <o:Created>2010-06-14T13:50:00Z</o:Created>
+  <o:LastSaved>2010-06-14T15:21:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>738</o:Words>
+  <o:Characters>5718</o:Characters>
+  <o:Lines>47</o:Lines>
+  <o:Paragraphs>12</o:Paragraphs>
+  <o:CharactersWithSpaces>6444</o:CharactersWithSpaces>
+  <o:Version>12.00</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<link rel=themeData href="index_72_files/themedata.thmx">
+<link rel=colorSchemeMapping href="index_72_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>ZH-CN</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	color:black;}
+a:link, span.MsoHyperlink
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:#EE0000;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	color:black;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link="#EE0000" vlink=blue style='tab-interval:21.0pt'>
+
+<div class=WordSection1>
+
+<p><strong><span style='font-size:24.0pt;mso-fareast-language:ZH-CN'>FISH
+characterization of cattle CNV regions</span></strong><span style='mso-fareast-language:
+ZH-CN'><o:p></o:p></span></p>
+
+<div>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman";
+mso-fareast-language:ZH-CN'><a href="../index.html">Back to cattle CNV homepage</a><o:p></o:p></span></p>
+
+</div>
+
+<p class=MsoNormal><b><span style='font-size:13.5pt;mso-fareast-font-family:
+"Times New Roman";mso-fareast-language:ZH-CN'><a href="Karyotype.html">Bos
+Taurus Karyotype<br>
+</a></span></b><span style='mso-fareast-font-family:"Times New Roman";
+mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+
+<p><b><span style='font-size:13.5pt;mso-fareast-language:ZH-CN'>Table S8. <span
+class=GramE>FISH characterization of predicted CNV regions.</span></span></b><span
+style='mso-fareast-language:ZH-CN'><o:p></o:p></span></p>
+
+<div align=center>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=800
+ style='width:600.0pt;mso-cellspacing:0in;border:outset 2.25pt;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:18.75pt'>
+  <td width=26 style='width:19.4pt;background:#FF9933;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;background:#FF9933;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>TYPE<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;background:#FF9933;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CLONE<o:p></o:p></span></b></p>
+  </td>
+  <td width=212 style='width:158.75pt;background:#FF9933;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>GENOMIC COORDINATES<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;background:#FF9933;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Cell 1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;background:#FF9933;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Cell 2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;background:#FF9933;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Cell 3<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;background:#FF9933;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Both<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="1_154H9.html">154H9</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr5:47523133-47830066<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Both<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="2_327J13.html">327J13</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr12:69388620-69530289<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>3<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Both<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="3_271E1.html">271E1</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr12:69655754-69927836<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>4<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>3<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>4<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Both<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="4_259A24.html">259A24</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr17:14989902-15115297<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1 or 2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>5<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Both<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="5_234E12.html">234E12</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr18:57058249-57236865<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2 or 3*<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>6<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>WGAC<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="6_121O22.html">121O22</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr23:26584641-26914146<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1 or 2*<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1 or 2*<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>7<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Both<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="7_203K5.html">203K5</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr23:28827122-29055567<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2 or 3*<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>8<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>WSSD<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="8_23F3.html">23F3</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr24:6824971-6986816<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>9<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Both<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="9_69N13.html">69N13</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr29:5446868-5554597<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>3<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>10<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Both<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="10_70J17.html">70J17</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr3:13022770-13477370<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>11<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Both<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="11_143A4.html">143A4</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr3:24373476-24655044<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2 or 3<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>12<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Both<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="12_263E19.html">263E19</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr3:57365022-57692506<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2+1#<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2+1#<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2+1#<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>13<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Both<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="13_324F20.html">324F20</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr4:109766054-110035929<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>3<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>14<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Both<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="14_461E16.html">461E16</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr4:117307784-117593835<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>15<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Both<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="15_343H7.html">343H7</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr5:10034306-10214347<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>16<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Unique<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="16_203K18.html">203K18</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chrX:57684945-57893155<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>17<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Both<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="17_149E13.html">149E13</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr2:136964221-137226534<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>18<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Both<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="18_124L13.html">124L13</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr3:9463718-9599665<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>19<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>WGAC<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="19_490G14.html">490G14</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr4:54337261-54531463<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>20<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="20_7N20.html">7N20</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr11:96537788-96783462<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>21<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="21_456G8.html">456G8</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr12:69932838-70069502<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>22<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="22_259A1.html">259A1</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr12:70157455-70313037<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>3<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>3<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>23<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="23_175G10.html">175G10</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr12:70268832-70475078<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>24<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="24_503J20.html">503J20</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr13:54004034-54277951<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>25<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="25_501M13.html">501M13</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr14:1337935-1442910<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>26<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="26_175F18.html">175F18</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr14:12974392-13175071<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2 or 3<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2 or 3<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2 or 3<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>27<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="27_2O12.html">2O12</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr14:13091977-13256939<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>3<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2 or 3<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>28<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="28_138D7.html">138D7</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr15:15883573-16048209<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1 on <span class=SpellE>chrX</span><o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1 on <span class=SpellE>chrX</span><o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1 on <span class=SpellE>chrX</span><o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>29<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="29_132D11.html">132D11</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr15:44954318-45191269<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>30<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="30_73F10.html">73F10</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr15:46040744-46353895<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>31<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="31_240G20.html">240G20</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr15:46765450-47008471<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>32<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="32_81B5.html">81B5</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr15:82632034-82915805<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>33<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="33_446K15.html">446K15</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr16:4019848-4319481<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>34<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="34_126B8.html">126B8</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr17:74307216-74527193<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>35<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="35_429M18.html">429M18</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr18:51054283-51183779<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>36<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="36_498N9.html">498N9</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr18:61425416-61617511<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1 or 2*<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1 or 2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>37<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="37_263M20.html">263M20</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr18:61575505-61856243<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>38<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="38_392A13.html">392A13</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr18:63400241-63582990<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1 or 2*<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>39<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="39_126D18.html">126D18</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr19:27495337-27732170<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>40<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="40_63C13.html">63C13</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr23:27612770-27903285<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:41;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>41<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="41_223K8.html">223K8</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr25:10519317-10699993<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:42;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>42<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="42_456H19.html">456H19</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr27:6470039-6826929<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1 or 2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1 or 2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1 or 2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:43;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>43<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="43_37C14.html">37C14</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr27:7127021-7358370<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:44;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>44<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="44_114M2.html">114M2</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr27:37093776-37341803<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:45;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>45<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="45_288C4.html">288C4</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr29:2360175-2629958<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:46;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>46<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="46_324A3.html">324A3</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr29:5606905-5822416<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>4 or more<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:47;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>47<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="47_488O13.html">488O13</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr29:43458323-43696780<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>3<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>3<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>5 or 6<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:48;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>48<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="48_124L13.html">124L13</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr3:9463718-9599665<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:49;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>49<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="49_363H17.html">363H17</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr3:22522856-22924597<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:50;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>50<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="50_341K10.html">341K10</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr3:100115350-100287170<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:51;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>51<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="51_481N5.html">481N5</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr4:108769529-108975389<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1 or 2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:52;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>52<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="52_28A8.html">28A8</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr4:109251420-109363830<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1 or 2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1 or 2*<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:53;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>53<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="53_513D23.html">513D23</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr4:109487157-109783473<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1 or 2*<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:54;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>54<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="54_5P17.html">5P17</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr4:117307784-117723707<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1 or 2*<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:55;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>55<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="55_223A10.html">223A10</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr5:9501793-9855743<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:56;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>56<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="56_338M16.html">338M16</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr5:109363867-109692177<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2 or 3<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>3 or 4<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:57;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>57<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="57_36P9.html">36P9</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr6:63646801-63860397<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:58;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>58<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="58_227A2.html">227A2</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr7:67605566-67782510<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1 or 2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:59;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>59<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="59_109F16.html">109F16</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr8:23468620-23663149<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:60;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>60<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="60_107G24.html">107G24</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr8:24487311-24817007<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:61;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>61<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="61_428J4.html">428J4</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr8:108798527-109002783<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>3<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:62;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>62<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="62_288E1.html">288E1</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr9:87701299-87864627<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>3<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2 or 3<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:63;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>63<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="63_466B6.html">466B6</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr9:90100241-90274550<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:64;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>64<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="64_117G16.html">117G16</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr9:90253957-90652236<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2 or 3<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:65;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>65<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="65_301B19.html">301B19</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chrX:70816785-71154935<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>4 or 5<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>4 or 5<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>4 or 5<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:66;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>66<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="66_461G2.html">461G2</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr5:109852030-110058859<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:67;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>67<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="67_56P13.html">56P13</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr12:70031478-70235247<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2 or 3*<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2 or 3<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:68;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>68<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="68_302I1.html">302I1</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr12:70491704-70673176<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1 or 2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1 or 2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>1 or 2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:69;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>69<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="69_361P24.html">361P24</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr27:37342305-37490746<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:70;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>70<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="70_229D11.html">229D11</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr5:9700300-9857999<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>3 or 4<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:71;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>71<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="71_58J1.html">58J1</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr5:62430731-62635936<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>No change<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:72;mso-yfti-lastrow:yes;height:18.75pt'>
+  <td width=26 style='width:19.4pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>72<o:p></o:p></span></b></p>
+  </td>
+  <td width=55 style='width:41.25pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>CNV<o:p></o:p></span></b></p>
+  </td>
+  <td width=60 style='width:45.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'><a href="72_202M19.html">202M19</a><o:p></o:p></span></b></p>
+  </td>
+  <td width=212 valign=bottom style='width:158.75pt;padding:0in 0in 0in 0in;
+  height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>chr5:9710274-9843613<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>3<o:p></o:p></span></b></p>
+  </td>
+  <td width=108 style='width:81.0pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>2 or 3*<o:p></o:p></span></b></p>
+  </td>
+  <td width=106 style='width:79.55pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>3<o:p></o:p></span></b></p>
+  </td>
+  <td width=125 style='width:94.05pt;padding:0in 0in 0in 0in;height:18.75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='mso-fareast-font-family:"Times New Roman"'>Yes<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman";
+mso-fareast-language:ZH-CN'><a href="../index.html">Back to cattle CNV homepage</a><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
